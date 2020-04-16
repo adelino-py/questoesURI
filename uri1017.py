@@ -1,0 +1,5 @@
+h = int(input())
+kmh = int(input())
+kmfinal = (h*kmh)
+kml = (kmfinal/12)
+print ("%.3f"%kml)
